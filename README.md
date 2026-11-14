@@ -1,13 +1,24 @@
 # Faryal Syeda
 
-### Agentic AI Developer — I build AI agents that do real work for your business.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Agentic+AI+Developer;I+build+AI+agents+that+do+real+work)](https://git.io/typing-svg)
 
 <img src="https://faryal-syeda-portfolio.vercel.app/profile.jpg" width="160" alt="Faryal Syeda">
 
 **How I work:** Discovery → small working version → paid pilot → full project.
 No big promises before a working version. Every result waits for human approval.
 
-## What I build
+## 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-0d1117?style=for-the-badge)
+![Multi-agent systems](https://img.shields.io/badge/Multi--agent_systems-0d1117?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0d1117?style=for-the-badge)
+
+## 🚀 What I build
 
 | Project | What it does |
 |---|---|
@@ -21,9 +32,12 @@ No big promises before a working version. Every result waits for human approval.
 | [AI Receptionist Agent](https://github.com/faryalsyeda/ai-receptionist-agent) | Clinic bookings, fees, timings — 21 tests pass |
 | [AI SDR Outreach Agent](https://github.com/faryalsyeda/ai-sdr-outreach-agent) | Personalised outreach drafts + follow-ups — 28 tests pass |
 
-## Stack
+## 📊 GitHub at a glance
 
-Python · FastAPI · RAG · MCP · Multi-agent systems · Prompt & context engineering · Docker · CI/CD
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faryalsyeda&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faryalsyeda&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faryalsyeda&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faryalsyeda&theme=github_dark)
 
 ## Honest note
 
